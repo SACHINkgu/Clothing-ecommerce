@@ -12,15 +12,6 @@ const ProductContext = createContext();
 
 const url ="https://fakestoreapi.com/products"
 
-// const getlocalstoragedata=()=>{
-//   const getdata=localStorage.getItem("StyleSpotcart");
-  
-//    if(getdata.length===0){
-//     return []
-//    }else{
-//     return JSON.parse(getdata);
-//    }
-// }
 
 const initialState={
    isloading:false,
