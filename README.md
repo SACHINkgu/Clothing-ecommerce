@@ -1,8 +1,7 @@
 # StyleSpot – E-Commerce Clothing Website
 
 ## Project Overview
-
-StyleSpot is a modern e-commerce platform built for clothing enthusiasts, providing a smooth and efficient online shopping experience. Designed to be responsive and user-friendly, this website caters to both men’s and women’s fashion categories. It offers real-time browsing, user authentication, and a streamlined shopping cart experience.
+This modern e-commerce platform is designed for clothing enthusiasts, providing a smooth and efficient online shopping experience. With a focus on responsiveness and user-friendliness, it caters to both men’s and women’s fashion. Features include real-time browsing, user authentication, and a streamlined shopping cart. StyleSpot embodies these qualities, ensuring customers enjoy an intuitive and seamless shopping journey.
 
 ## Key Features
 - Fully responsive and optimized for mobile and desktop.
@@ -50,10 +49,9 @@ StyleSpot is a modern e-commerce platform built for clothing enthusiasts, provid
 - Wishlist and product recommendation system.  
 
 ## Contributing
-- Sachin Kumar Gupta
-
-
-
+- Sachin Kumar Gupta 
+- Yash Kumar Singh
+  
 
 # React + Vite
 
