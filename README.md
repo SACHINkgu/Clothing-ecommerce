@@ -51,6 +51,9 @@ This modern e-commerce platform is designed for clothing enthusiasts, providing 
 ## Contributing
 - Sachin Kumar Gupta 
 - Yash Kumar Singh
+- Utkarsh Mishra
+- Raj Gupta
+  
   
 
 # React + Vite
